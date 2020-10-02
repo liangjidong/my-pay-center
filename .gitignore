@@ -1,0 +1,21 @@
+.*
+!.gitignore
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#package files
+target
+*.xml.bak
+*.iml
+.idea
+
+#demo file
+AlexDemo.java
+
+.classpath
+.project
+.settings/
